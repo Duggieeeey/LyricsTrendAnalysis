@@ -1,7 +1,7 @@
 # LyricsTrendAnalysis
 
 <br>
-Working on the data analytics project...
+Working on the personal data analytics project, the purpose is to start a long-term relationship with data science and have fun:)
 <br>
 <br>
 <br>
